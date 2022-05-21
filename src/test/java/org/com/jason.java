@@ -24,25 +24,8 @@ public class jason {
 	Object object3 = jason.get("email");
 	//String mail = (String) object3;
 				System.out.println(object3);
-////		System.out.println(object3);
-//		System.out.println();
-//		Object object4 = jason.get("first");
-//		System.out.println(object4);
-//		System.out.println();
-//		Object object5 = jason.get("last_name");
-//		System.out.println(object5);
-//		System.out.println();
-//		Object object6 = jason.get("avatar");
-//		System.out.println(object6);
-//		System.out.println();
-//		Object object7 = j.get("support");
-//		System.out.println(object7);
-//		System.out.println();
-//		JSONObject json = (JSONObject)object7;
-//	    Object object8 = json.get("url");
-//	    System.out.println(object8);
-//	    System.out.println(  );
-//	    Object object9 = json.get("text");
-//	    System.out.println(object9);
+     String s= "asdfgh";
+     int length = s.length();
+     System.out.println(length);
 	}
 }
